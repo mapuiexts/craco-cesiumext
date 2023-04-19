@@ -1,4 +1,4 @@
-# craco-cesium
+# craco-cesiumext
 
 Let's use 🌍[CesiumExt](https://github.com/mapuiexts/React-CesiumExt) with [create-react-app](https://github.com/facebook/create-react-app) today!
 
