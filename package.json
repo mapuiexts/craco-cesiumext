@@ -1,0 +1,26 @@
+{
+    "name": "@mapuiexts/craco-cesiumext",
+    "version": "0.1.0",
+    "description": "To use CesiumExt with create-react-app!",
+    "main": "index.js",
+    "repository": "https://github.com/mapuiexts/craco-cesiumext.git",
+    "author": "Paulo Aragao <https://www.linkedin.com/in/pssargao>",
+    "license": "MIT",
+    "files": [
+        "index.js"
+    ],
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    },
+    "dependencies": {
+        "copy-webpack-plugin": "^9.1.0",
+        "html-webpack-tags-plugin": "^2.0.17",
+        "webpack": "^5.79.0"
+    },
+    "peerDependencies": {
+        "@craco/craco": "*"
+    },
+    "optionalDependencies": {
+        "strip-pragma-loader": "*"
+    }
+}
